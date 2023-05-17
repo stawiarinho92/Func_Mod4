@@ -3,3 +3,6 @@ def palindrome(word):
         return True
     else:
         False
+
+
+result = palindrome("dad")
