@@ -6,3 +6,4 @@ def palindrome(word):
 
 
 result = palindrome("dad")
+print(result)
